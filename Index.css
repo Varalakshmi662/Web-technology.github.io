@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+}
+input[type=text]{
+    width: 100px;
+    padding: 14px;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    resize: vertical;
+}
